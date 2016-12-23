@@ -1,0 +1,3 @@
+# PyIPcam
+Simple people detection
+--  
